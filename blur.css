@@ -1,0 +1,13 @@
+.blur .portfolio-1439301 {
+  border-radius: 10px;
+  background: url('../assets/images/portfolio1439301.jpeg') 50% / cover no-repeat;
+  width: 370px;
+  height: 215px;
+}
+.blur {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+.group-3 .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}

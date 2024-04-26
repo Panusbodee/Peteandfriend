@@ -1,0 +1,22 @@
+.dark-mode-1 .componentlottiehttpsassets-10-lottiefiles-comtemplf-20-y-6-my-2-ajson {
+  mix-blend-mode: lighten;
+  background: url('../assets/images/componentlottiehttpsassets10LottiefilesComtemplf20Y6My2Ajson1.gif') 50% / cover no-repeat;
+  margin-right: 15px;
+  height: 16px;
+  flex-grow: 1;
+  flex-basis: 20px;
+}
+.dark-mode-1 .ellipse-1 {
+  margin: 2px 0;
+  width: 14px;
+  height: 12px;
+}
+.dark-mode {
+  border-radius: 100px;
+  background: #3B95FF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 9px 5px 5px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,22 @@
+.group-2 .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.group-2 .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.group {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

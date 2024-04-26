@@ -1,0 +1,44 @@
+.state-end .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: 50%;
+  top: -75px;
+  translate: -50% 0;
+  width: 385px;
+  height: 369px;
+}
+.state-end .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  left: -45px;
+  top: 591px;
+  width: 303px;
+  height: 296px;
+}
+.state-end .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  top: 245px;
+  right: -1px;
+  width: 296px;
+  height: 309px;
+}
+.state-end .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  top: 580px;
+  right: -119px;
+  width: 390px;
+  height: 307px;
+}
+.state-end .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 294px;
+  width: 293px;
+  height: 286px;
+}
+.state-end {
+  background: #000000;
+}

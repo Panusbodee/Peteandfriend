@@ -1,0 +1,279 @@
+.review-1 .exercuses {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 36px;
+  color: #F0F0F0;
+}
+.review-1 .group-1 {
+  margin: 0 0 3.4px 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.review-1 .group {
+  opacity: 0.8;
+  position: relative;
+  margin: 0 64.8px 36.5px 0;
+  width: 43.2px;
+  height: 24.1px;
+}
+.review-1 .ellipse-47 {
+  margin-right: 19px;
+  width: 47px;
+  height: 42px;
+}
+.review-1 .union {
+  width: 9px;
+  height: 8.5px;
+}
+.review-1 .star {
+  margin-right: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9px;
+  height: 8.5px;
+  box-sizing: border-box;
+}
+.review-1 .union-1 {
+  width: 9px;
+  height: 8.5px;
+}
+.review-1 .star-1 {
+  margin-right: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9px;
+  height: 8.5px;
+  box-sizing: border-box;
+}
+.review-1 .union-2 {
+  width: 9px;
+  height: 8.5px;
+}
+.review-1 .star-2 {
+  margin-right: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9px;
+  height: 8.5px;
+  box-sizing: border-box;
+}
+.review-1 .union-3 {
+  width: 9px;
+  height: 8.5px;
+}
+.review-1 .star-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9px;
+  height: 8.5px;
+  box-sizing: border-box;
+}
+.review-1 .union-4 {
+  width: 9px;
+  height: 8.5px;
+}
+.review-1 .star-4 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9px;
+  height: 8.5px;
+  box-sizing: border-box;
+}
+.review-1 .stars {
+  position: relative;
+  margin: 17px 0 16.5px 0;
+  display: flex;
+  flex-direction: row;
+  padding-right: 16px;
+  width: 73px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.review-1 .container-1 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 139px;
+  box-sizing: border-box;
+}
+.review-1 .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.review-1 .group-5 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.review-1 .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review-1 .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review-1 .group-6 {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.review-1 .group-4 {
+  margin: 0 4.8px 38px 0;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.review-1 .workot {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FF9B70;
+}
+.review-1 .group-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  box-sizing: border-box;
+}
+.review-1 .container-2 {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 27px 22px 24px;
+  height: fit-content;
+  flex-grow: 1;
+  box-sizing: border-box;
+}
+.review-1 .group-3 {
+  border-radius: 10px;
+  background: #8C8C8C;
+  position: relative;
+  margin: 0 31px 453px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: calc(100% - 61px);
+  box-sizing: border-box;
+}
+.review-1 .home-duotone {
+  margin-bottom: 4.5px;
+  width: 37.5px;
+  height: 37.8px;
+}
+.review-1 .vector-399 {
+  margin: 0 5px 0 4px;
+  width: 6px;
+  height: 7px;
+}
+.review-1 .vector-398 {
+  margin-bottom: 1px;
+  width: 4px;
+  height: 8px;
+}
+.review-1 .vector-400 {
+  width: 11px;
+  height: 9px;
+}
+.review-1 .container {
+  display: flex;
+  flex-direction: row;
+  width: 15px;
+  box-sizing: border-box;
+}
+.review-1 .thumb-up {
+  background: #6C6969;
+  margin-top: 11.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px 11px 5px;
+  width: 28px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.review-1 .book-open-alt {
+  margin: 13.4px 0 2px 0;
+  width: 27px;
+  height: 27px;
+}
+.review-1 .ellipse-46 {
+  border-radius: 4.5px;
+  margin: 0 3.4px 3.4px 3.4px;
+  width: 9px;
+  height: 9px;
+}
+.review-1 .rectangle-4160 {
+  border-radius: 1.8px;
+  width: 15.8px;
+  height: 7.9px;
+}
+.review-1 .user-alt {
+  margin: 11.7px 0 10.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.review-1 .group-2 {
+  background: rgba(113, 109, 109, 0.9);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.6px 0 25px 36.4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.review-1 .shape {
+  position: absolute;
+  left: 1px;
+  top: 130px;
+  width: 427px;
+  height: 43px;
+}
+.review {
+  background: #1E1E1E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 64px;
+  box-sizing: border-box;
+}

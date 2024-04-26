@@ -1,0 +1,26 @@
+.property-1-default .select {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #666666;
+}
+.property-1-default .polygon-1 {
+  position: absolute;
+  right: 25px;
+  bottom: 11px;
+  width: 15px;
+  height: 12px;
+}
+.property-1-default .frame-1 {
+  border-radius: 5px;
+  border: 1px solid #666666;
+  position: relative;
+  padding: 3px 11px 5px 11px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default {
+  box-sizing: border-box;
+}

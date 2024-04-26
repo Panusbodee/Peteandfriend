@@ -1,0 +1,90 @@
+.front-hashtag .hashtag-2 {
+  border-radius: 10px;
+  background: url('../assets/images/hashtag2.jpeg') 50% / cover no-repeat;
+  position: relative;
+  width: 370px;
+  height: 234.6px;
+}
+.front-hashtag .front-back-up {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 371.5px;
+  height: 236.8px;
+}
+.front-hashtag .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.front-hashtag .group {
+  position: absolute;
+  left: 28.1px;
+  top: 26.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.front-hashtag .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.front-hashtag .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.front-hashtag .group-1 {
+  position: absolute;
+  left: 28.1px;
+  top: 61.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.front-hashtag .see-more {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.front-hashtag .group-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.front-hashtag .group-2 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: absolute;
+  right: 25.3px;
+  bottom: 54.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 6px 19.3px 6.4px 19.3px;
+  width: 81.1px;
+  box-sizing: border-box;
+}
+.front-hashtag {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 2.2px 1.5px 0 0;
+  box-sizing: border-box;
+}

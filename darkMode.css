@@ -1,0 +1,41 @@
+.dark-mode .componentlottiehttpsassets-10-lottiefiles-comtemplf-20-y-6-my-2-ajson {
+  mix-blend-mode: lighten;
+  background: url('../assets/images/componentlottiehttpsassets10LottiefilesComtemplf20Y6My2Ajson1.gif') 50% / cover no-repeat;
+  margin-bottom: 47.4px;
+  width: 200px;
+  height: 200px;
+}
+.dark-mode .dark-mode-1 {
+  margin: 0 24.2px 67.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Gilroy', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.dark-mode .ellipse-1 {
+  border-radius: 35px;
+  background: #FFFFFF;
+  width: 70px;
+  height: 70px;
+}
+.dark-mode .dark-mode-2 {
+  border-radius: 100px;
+  background: #3B95FF;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 15px 16.3px;
+  width: 180px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.dark-mode {
+  background: #111111;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 200px 0 194px 0;
+  box-sizing: border-box;
+}

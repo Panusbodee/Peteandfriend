@@ -1,0 +1,24 @@
+.group-46 .image-11 {
+  background: url('../assets/images/image11.png') 50% / cover no-repeat;
+  margin-left: 85px;
+  width: 9449px;
+  height: 6388px;
+}
+.group-46 .image-14 {
+  background: url('../assets/images/image14.png') 50% / cover no-repeat;
+  margin-left: 86px;
+  width: 9448px;
+  height: 6387px;
+}
+.group-46 .image-15 {
+  background: url('../assets/images/image15.png') 50% / cover no-repeat;
+  width: 9534px;
+  height: 6388px;
+}
+.group-46 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 9534px;
+  box-sizing: border-box;
+}

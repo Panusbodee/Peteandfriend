@@ -1,0 +1,242 @@
+.booking .exercuses {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.booking .group-2 {
+  margin: 0 0 3.4px 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.booking .group-1 {
+  opacity: 0.8;
+  margin: 0 64.8px 15.5px 0;
+  width: 43.2px;
+  height: 24.1px;
+}
+.booking .rectangle-path {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.booking .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.booking .group-4 {
+  position: relative;
+  margin-bottom: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.booking .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.booking .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.booking .group-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.booking .container-2 {
+  border-radius: 10px;
+  background: url('../assets/images/coverLargeP1Dp265Ru8F3Afdaokk71O1Nm851.jpeg') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 28px 0 115.7px 24px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.booking .group {
+  border-radius: 10px;
+  background: #8C8C8C;
+  position: relative;
+  margin: 0 30px 29px 31px;
+  width: calc(100% - 61px);
+  box-sizing: border-box;
+}
+.booking .line-3 {
+  background: rgba(0, 0, 0, 0.16);
+  margin-bottom: 14px;
+  width: 430px;
+  height: 1px;
+}
+.booking .please-choose-quantity {
+  margin: 0 16px 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.booking .select {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.booking .polygon-1 {
+  position: absolute;
+  right: 25px;
+  bottom: 11px;
+  width: 15px;
+  height: 12px;
+}
+.booking .frame-1 {
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  position: relative;
+  padding: 3px 11px 5px 11px;
+  box-sizing: border-box;
+}
+.booking .component-1 {
+  margin: 0 11px 353px 0;
+  box-sizing: border-box;
+}
+.booking .home-duotone {
+  margin-bottom: 4.5px;
+  width: 37.5px;
+  height: 37.8px;
+}
+.booking .vector-399 {
+  margin: 0 5px 0 4px;
+  width: 6px;
+  height: 7px;
+}
+.booking .vector-398 {
+  margin-bottom: 1px;
+  width: 4px;
+  height: 8px;
+}
+.booking .vector-400 {
+  width: 11px;
+  height: 9px;
+}
+.booking .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 15px;
+  box-sizing: border-box;
+}
+.booking .thumb-up {
+  background: #F0F0F0;
+  margin-top: 11.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px 11px 5px;
+  width: 28px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.booking .book-open-alt {
+  margin: 13.4px 0 2px 0;
+  width: 27px;
+  height: 27px;
+}
+.booking .ellipse-46 {
+  border-radius: 4.5px;
+  margin: 0 3.4px 3.4px 3.4px;
+  width: 9px;
+  height: 9px;
+}
+.booking .rectangle-4160 {
+  border-radius: 1.8px;
+  width: 15.8px;
+  height: 7.9px;
+}
+.booking .user-alt {
+  margin: 11.7px 0 10.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.booking .group-3 {
+  background: #F0F0F0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.6px 0 25px 36.4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.booking .shape {
+  position: absolute;
+  left: 1px;
+  top: 66px;
+  width: 427px;
+  height: 43px;
+}
+.booking .cfa-exercuses {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.booking .book-now {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.booking .container {
+  background: #9747FF;
+  position: absolute;
+  right: -2px;
+  bottom: 85px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 3px 17px 0;
+  width: 432px;
+  height: 85px;
+  box-sizing: border-box;
+}
+.booking {
+  background: #FFFFFF;
+  padding-top: 64px;
+  box-sizing: border-box;
+}

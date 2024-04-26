@@ -1,0 +1,38 @@
+.light-mode .componentlottiehttpsassets-5-lottiefiles-compackageslf-20-zk-3-wvzpg-json {
+  mix-blend-mode: multiply;
+  background: url('../assets/images/componentlottiehttpsassets5LottiefilesCompackageslf20Zk3WvzpgJson.gif') 50% / cover no-repeat;
+  margin-bottom: 47.4px;
+  width: 200px;
+  height: 200px;
+}
+.light-mode .light-mode-1 {
+  margin: 0 21.6px 67.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Gilroy', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.light-mode .ellipse-1 {
+  border-radius: 35px;
+  background: #FFFFFF;
+  width: 70px;
+  height: 70px;
+}
+.light-mode .light-mode-2 {
+  border-radius: 100px;
+  background: #C4C4C4;
+  padding: 15px;
+  width: 180px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.light-mode {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 200px 0 194px 0;
+  box-sizing: border-box;
+}

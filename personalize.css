@@ -1,0 +1,784 @@
+.personalize .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  left: -102px;
+  top: -27px;
+  width: 385px;
+  height: 369px;
+}
+.personalize .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  top: 66.5px;
+  right: -23.3px;
+  width: 303px;
+  height: 296px;
+}
+.personalize .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  left: -16px;
+  top: 623px;
+  width: 296px;
+  height: 309px;
+}
+.personalize .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 312px;
+  width: 390px;
+  height: 307px;
+}
+.personalize .vector-5 {
+  filter: blur(175px);
+  position: absolute;
+  top: 480px;
+  right: -94px;
+  width: 293px;
+  height: 286px;
+}
+.personalize .exercuses {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.personalize .group-1 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .email-1 {
+  margin: 0 0.5px 16.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.personalize .group {
+  opacity: 0.8;
+  position: relative;
+  margin-right: 66.3px;
+  width: 43.2px;
+  height: 24.1px;
+}
+.personalize .shape {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 427px;
+  height: 43px;
+}
+.personalize .rectangle-path {
+  border-radius: 9.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.personalize .email {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personalize .group-2 {
+  position: absolute;
+  left: 50%;
+  bottom: 3px;
+  translate: -50% 0;
+  padding: 1px 12px 2px 12px;
+  width: 369px;
+  box-sizing: border-box;
+}
+.personalize .cfa-exercuses {
+  position: relative;
+  margin: 0 0 11px 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 36.5px;
+  width: calc(100% - 19px);
+  box-sizing: border-box;
+}
+.personalize .email-2 {
+  position: relative;
+  margin: 0 214.2px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personalize .see-more {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-3 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 9.1px 9px 9.1px;
+  box-sizing: border-box;
+}
+.personalize .see-more-2 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-7 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 10.9px 9px 10.9px;
+  box-sizing: border-box;
+}
+.personalize .see-more-3 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-9 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 11.6px 9px 11.6px;
+  box-sizing: border-box;
+}
+.personalize .see-more-4 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-11 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 9px;
+  padding: 7px 17.7px 9px 17.7px;
+  width: 108px;
+  box-sizing: border-box;
+}
+.personalize .see-more-5 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-13 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 9.2px 9px 9.2px;
+  box-sizing: border-box;
+}
+.personalize .container-1 {
+  position: relative;
+  margin: 0 14px 6px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .see-more-1 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-5 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin: 0 8.6px 0.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 17.7px 7.9px 15.3px;
+  box-sizing: border-box;
+}
+.personalize .see-more-6 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-15 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 10px 9px 10.4px;
+  box-sizing: border-box;
+}
+.personalize .see-more-7 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-17 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 14.5px 9px 14.7px;
+  box-sizing: border-box;
+}
+.personalize .see-more-8 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-19 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 11.6px 9px 10.6px;
+  box-sizing: border-box;
+}
+.personalize .see-more-9 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-21 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 12px 9px 11px;
+  box-sizing: border-box;
+}
+.personalize .container-4 {
+  position: relative;
+  margin: 0 38px 6px 38px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .see-more-10 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-23 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin: 0 298px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 11.4px 9px 10.4px;
+  box-sizing: border-box;
+}
+.personalize .rectangle-path-12 {
+  border-radius: 9.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.personalize .rectangle-path-22 {
+  border-radius: 9.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.personalize .email-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.15);
+}
+.personalize .group-43 {
+  position: relative;
+  margin: 0 37px 14px 40px;
+  padding: 1px 12px 2px 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .email-4 {
+  position: relative;
+  margin: 0 230.9px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personalize .see-more-11 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-25 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 9px 9px 9px;
+  box-sizing: border-box;
+}
+.personalize .see-more-12 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-27 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 15.1px 9px 14.1px;
+  box-sizing: border-box;
+}
+.personalize .see-more-18 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-40 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-39 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 9px;
+  padding: 7px 19.4px 9px 19.4px;
+  width: 78px;
+  box-sizing: border-box;
+}
+.personalize .see-more-19 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-42 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-41 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 16.7px 9px 17.7px;
+  box-sizing: border-box;
+}
+.personalize .container-3 {
+  position: relative;
+  margin: 0 17px 6px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .see-more-17 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-38 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-37 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin: 0 9.8px 0.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 19.5px 7.9px 17px;
+  box-sizing: border-box;
+}
+.personalize .see-more-13 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-29 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 13.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 12.2px 9px 12.3px;
+  box-sizing: border-box;
+}
+.personalize .see-more-14 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-32 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-31 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 13px 9px 13px;
+  box-sizing: border-box;
+}
+.personalize .see-more-15 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-33 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 13.6px 9px 12.6px;
+  box-sizing: border-box;
+}
+.personalize .container-2 {
+  position: relative;
+  margin: 0 37px 9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .see-more-16 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-35 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  margin-right: 13.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 19.9px 9px 18.2px;
+  box-sizing: border-box;
+}
+.personalize .see-more-20 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.personalize .group-46 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.personalize .group-45 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 19.8px 9px 18.1px;
+  box-sizing: border-box;
+}
+.personalize .container {
+  position: relative;
+  margin: 0 137px 11px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .rectangle-path-23 {
+  border-radius: 9.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.personalize .rectangle-path-24 {
+  border-radius: 9.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.personalize .email-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.15);
+}
+.personalize .group-44 {
+  position: relative;
+  margin: 0 37px 276px 40px;
+  padding: 1px 12px 2px 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .next {
+  margin: 5px 4.7px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Rubik';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.personalize .vector {
+  width: 29.6px;
+  height: 48px;
+}
+.personalize .group-14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 29.6px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.personalize .container-5 {
+  position: relative;
+  margin: 0 39px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personalize .sign-in-new {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 37px 4px 44px 4px;
+  width: 454px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personalize {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}

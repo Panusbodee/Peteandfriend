@@ -1,0 +1,43 @@
+.state-mid .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: -59px;
+  top: 618px;
+  width: 385px;
+  height: 369px;
+}
+.state-mid .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  top: 493px;
+  right: -63px;
+  width: 303px;
+  height: 296px;
+}
+.state-mid .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  left: -81px;
+  top: 362px;
+  width: 296px;
+  height: 309px;
+}
+.state-mid .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  top: 25px;
+  right: -91px;
+  width: 390px;
+  height: 307px;
+}
+.state-mid .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  left: -38px;
+  top: 76px;
+  width: 293px;
+  height: 286px;
+}
+.state-mid {
+  background: #000000;
+}

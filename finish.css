@@ -1,0 +1,138 @@
+.finish .thank-you {
+  margin: 0 19px 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 35px;
+  color: #000000;
+}
+.finish .ellipse-50 {
+  position: relative;
+  margin: 0 0.9px 54px 0;
+  width: 261.1px;
+  height: 256px;
+}
+.finish .the-reservation-was-successful-you-table-number-is {
+  margin-bottom: 82px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+}
+.finish .container {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 600;
+  font-size: 80px;
+  color: #000000;
+}
+.finish .container-1 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 101px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 30px 0;
+  width: 280px;
+  box-sizing: border-box;
+}
+.finish .home-duotone {
+  width: 37.5px;
+  height: 37.8px;
+}
+.finish .vector-399 {
+  margin: 0 5px 0 4px;
+  width: 6px;
+  height: 7px;
+}
+.finish .vector-398 {
+  margin-bottom: 1px;
+  width: 4px;
+  height: 8px;
+}
+.finish .vector-400 {
+  width: 11px;
+  height: 9px;
+}
+.finish .container {
+  display: flex;
+  flex-direction: row;
+  width: 15px;
+  box-sizing: border-box;
+}
+.finish .thumb-up {
+  background: #F0F0F0;
+  margin: 6px 0 0.8px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px 11px 5px;
+  width: 28px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.finish .book-open-alt {
+  margin: 8px 0 2.8px 0;
+  width: 27px;
+  height: 27px;
+}
+.finish .ellipse-46 {
+  border-radius: 4.5px;
+  margin: 0 3.4px 3.4px 3.4px;
+  width: 9px;
+  height: 9px;
+}
+.finish .rectangle-4160 {
+  border-radius: 1.8px;
+  width: 15.8px;
+  height: 7.9px;
+}
+.finish .user-alt {
+  margin: 6.4px 0 11.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.finish .group {
+  background: #F0F0F0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 22px 0 25.2px 35px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.finish .vector-stroke {
+  width: 115.1px;
+  height: 85.6px;
+}
+.finish .checkmark {
+  position: absolute;
+  left: 50%;
+  top: 224.7px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 115.1px;
+  height: 85.6px;
+  box-sizing: border-box;
+}
+.finish {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 72px;
+  box-sizing: border-box;
+}
