@@ -1,0 +1,70 @@
+.zync .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.zync .group {
+  margin-bottom: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.zync .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.zync .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.zync .group-1 {
+  margin-bottom: 38.7px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.zync .see-more {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.zync .group-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.zync .group-2 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: flex-end;
+  padding: 6.2px 17.9px 9.7px 17.9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.zync {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

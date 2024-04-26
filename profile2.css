@@ -1,0 +1,254 @@
+.profile-2 .exercuses {
+  position: absolute;
+  right: -1px;
+  bottom: -2px;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 31px;
+  color: #FFFFFF;
+}
+.profile-2 .group-2 {
+  background: #1E1E1E;
+  position: absolute;
+  left: -213px;
+  bottom: -31px;
+  width: 97px;
+  height: 49px;
+}
+.profile-2 .vector {
+  width: 28px;
+  height: 29px;
+}
+.profile-2 .group-1 {
+  position: relative;
+  margin: 0 22px 26.4px 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  width: 28px;
+  height: 29px;
+  box-sizing: border-box;
+}
+.profile-2 .group {
+  opacity: 0.8;
+  position: relative;
+  margin: 0 64.8px 36.5px 0;
+  width: 43.2px;
+  height: 24.1px;
+}
+.profile-2 .ellipse-49 {
+  border-radius: 67.5px;
+  background: #D9D9D9;
+  width: 135px;
+  height: 135px;
+}
+.profile-2 .group-44 {
+  margin: 0 9px 34px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 135px;
+  height: 135px;
+  box-sizing: border-box;
+}
+.profile-2 .pete-gay-lord {
+  margin: 0 12.9px 38px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 26px;
+  color: #FFFDFD;
+}
+.profile-2 .booking {
+  margin-right: 11.5px;
+  width: 177.5px;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  font-size: 18px;
+  color: #D5D5D5;
+}
+.profile-2 .review {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  font-size: 18px;
+  color: #C7C7C7;
+}
+.profile-2 .container-2 {
+  margin: 0 15.9px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 248.1px;
+  box-sizing: border-box;
+}
+.profile-2 .container-1 {
+  margin-right: 11.5px;
+  width: 173.5px;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A7A7A7;
+}
+.profile-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A7A7A7;
+}
+.profile-2 .container-3 {
+  margin: 0 14.9px 50px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 215.1px;
+  box-sizing: border-box;
+}
+.profile-2 .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.profile-2 .group-5 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.profile-2 .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.profile-2 .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.profile-2 .group-6 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-2 .container-1 {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 21px 0 156px 20px;
+  box-sizing: border-box;
+}
+.profile-2 .group-4 {
+  border-radius: 10px;
+  background: #8C8C8C;
+  position: relative;
+  margin: 0 28px 77px 28px;
+  align-self: flex-end;
+  box-sizing: border-box;
+}
+.profile-2 .home-duotone {
+  margin-bottom: 4.5px;
+  width: 37.5px;
+  height: 37.8px;
+}
+.profile-2 .vector-399 {
+  margin: 0 5px 0 4px;
+  width: 6px;
+  height: 7px;
+}
+.profile-2 .vector-398 {
+  margin-bottom: 1px;
+  width: 4px;
+  height: 8px;
+}
+.profile-2 .vector-400 {
+  width: 11px;
+  height: 9px;
+}
+.profile-2 .container {
+  display: flex;
+  flex-direction: row;
+  width: 15px;
+  box-sizing: border-box;
+}
+.profile-2 .thumb-up {
+  background: #686565;
+  margin-top: 11.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px 11px 5px;
+  width: 28px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-2 .book-open-alt {
+  margin: 13.4px 0 2px 0;
+  width: 27px;
+  height: 27px;
+}
+.profile-2 .ellipse-46 {
+  border-radius: 4.5px;
+  margin: 0 3.4px 3.4px 3.4px;
+  width: 9px;
+  height: 9px;
+}
+.profile-2 .rectangle-4160 {
+  border-radius: 1.8px;
+  width: 15.8px;
+  height: 7.9px;
+}
+.profile-2 .user-alt {
+  margin: 11.7px 0 10.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-2 .group-3 {
+  background: #686565;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.6px 0 25px 36.4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-2 .shape {
+  position: absolute;
+  left: 1px;
+  top: 130px;
+  width: 427px;
+  height: 43px;
+}
+.profile {
+  background: #1E1E1E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 57px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,249 @@
+.log-in .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: -102px;
+  top: -27px;
+  width: 385px;
+  height: 369px;
+}
+.log-in .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  top: 66.5px;
+  right: -47.3px;
+  width: 303px;
+  height: 296px;
+}
+.log-in .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  left: -16px;
+  top: 623px;
+  width: 296px;
+  height: 309px;
+}
+.log-in .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 312px;
+  width: 390px;
+  height: 307px;
+}
+.log-in .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  top: 480px;
+  right: -118px;
+  width: 293px;
+  height: 286px;
+}
+.log-in .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: -102px;
+  top: -27px;
+  width: 385px;
+  height: 369px;
+}
+.log-in .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  top: 66.5px;
+  right: -47.3px;
+  width: 303px;
+  height: 296px;
+}
+.log-in .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  left: -16px;
+  top: 623px;
+  width: 296px;
+  height: 309px;
+}
+.log-in .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 312px;
+  width: 390px;
+  height: 307px;
+}
+.log-in .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  top: 480px;
+  right: -118px;
+  width: 293px;
+  height: 286px;
+}
+.log-in .sign-in-new {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.log-in .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.log-in .container-2 {
+  background: #757575;
+  position: relative;
+  margin-bottom: 130px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 53px 0 19px 2px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.log-in .fmb {
+  position: relative;
+  margin-bottom: 81.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 80px;
+  color: #FFFFFF;
+}
+.log-in .password-1 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 16.5px;
+  color: #FFFFFF;
+}
+.log-in .group-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.log-in .rectangle-path-1 {
+  border-radius: 9.5px;
+  width: 328px;
+  height: 49px;
+}
+.log-in .group-6 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 328px;
+  height: 49px;
+  box-sizing: border-box;
+}
+.log-in .group-4 {
+  position: relative;
+  margin: 0 0 36px 1px;
+  padding: 13.5px 9.5px 15.5px 9.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.log-in .password {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.log-in .group-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.log-in .rectangle-path {
+  border-radius: 9.5px;
+  width: 328px;
+  height: 49px;
+}
+.log-in .group-3 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 328px;
+  height: 49px;
+  box-sizing: border-box;
+}
+.log-in .group-1 {
+  position: relative;
+  margin: 0 0 65.5px 1px;
+  padding: 13.5px 9.5px 12.5px 9.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.log-in .sign-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #F9F4F2;
+}
+.log-in .group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.log-in .container {
+  border-radius: 15px;
+  background: #5754CC;
+  position: relative;
+  margin: 0 11px 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 15px 4.2px 15px 0;
+  width: 219px;
+  box-sizing: border-box;
+}
+.log-in .dont-have-an-account {
+  margin-right: 11.6px;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.log-in .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 18px;
+  color: #5754CC;
+}
+.log-in .container-1 {
+  position: relative;
+  margin-left: 19.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.log-in {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 240px;
+  box-sizing: border-box;
+}

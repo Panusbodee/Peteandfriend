@@ -1,0 +1,481 @@
+.review .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: -102px;
+  top: -27px;
+  width: 385px;
+  height: 369px;
+}
+.review .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  top: 66.5px;
+  right: -47.3px;
+  width: 303px;
+  height: 296px;
+}
+.review .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  left: -16px;
+  top: 623px;
+  width: 296px;
+  height: 309px;
+}
+.review .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 312px;
+  width: 390px;
+  height: 307px;
+}
+.review .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  top: 480px;
+  right: -118px;
+  width: 293px;
+  height: 286px;
+}
+.review .vector {
+  filter: blur(175px);
+  position: absolute;
+  left: -102px;
+  top: -27px;
+  width: 385px;
+  height: 369px;
+}
+.review .vector-1 {
+  filter: blur(175px);
+  position: absolute;
+  top: 66.5px;
+  right: -47.3px;
+  width: 303px;
+  height: 296px;
+}
+.review .vector-2 {
+  filter: blur(175px);
+  position: absolute;
+  left: -16px;
+  top: 623px;
+  width: 296px;
+  height: 309px;
+}
+.review .vector-3 {
+  filter: blur(175px);
+  position: absolute;
+  left: -63px;
+  top: 312px;
+  width: 390px;
+  height: 307px;
+}
+.review .vector-4 {
+  filter: blur(175px);
+  position: absolute;
+  top: 480px;
+  right: -118px;
+  width: 293px;
+  height: 286px;
+}
+.review .sign-in-new {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.review .portfolio-1439301 {
+  border-radius: 10px;
+  background: url('../assets/images/portfolio1439301.jpeg') 50% / cover no-repeat;
+  width: 370px;
+  height: 215px;
+}
+.review .blur {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: -13px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 370px;
+  height: 215px;
+  box-sizing: border-box;
+}
+.review .exercuses {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 36px;
+  color: #F0F0F0;
+}
+.review .group-2 {
+  margin: 0 0 3.4px 0.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.review .group-1 {
+  opacity: 0.8;
+  position: relative;
+  margin: 0 65.8px 66.5px 0;
+  width: 43.2px;
+  height: 24.1px;
+}
+.review .rectangle-path-1 {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.review .climbers {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.review .group-4 {
+  position: relative;
+  margin-bottom: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.review .personalized-workouts-will-help {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .you-gain-strength {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .group-5 {
+  position: relative;
+  margin-bottom: 38.7px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.review .see-more {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.review .group-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.review .group-6 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: flex-end;
+  padding: 6.2px 17.9px 9.7px 17.9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.review .container-2 {
+  border-radius: 10px;
+  background: url('../assets/images/coverLargeP1Dp265Ru8F3Afdaokk71O1Nm851.jpeg') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 28px 26.6px 46.1px 24px;
+  height: fit-content;
+  flex-grow: 1;
+  box-sizing: border-box;
+}
+.review .group {
+  border-radius: 10px;
+  background: #8C8C8C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.review .shape {
+  position: absolute;
+  left: 50%;
+  top: 66px;
+  translate: -50% 0;
+  width: 427px;
+  height: 43px;
+}
+.review .cfa-exercuses {
+  position: relative;
+  margin-bottom: 29.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 28px 0 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.review .hashtag-2 {
+  border-radius: 10px;
+  background: url('../assets/images/hashtag2.jpeg') 50% / cover no-repeat;
+  position: relative;
+  width: 370px;
+  height: 234.6px;
+}
+.review .front-back-up {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 371.5px;
+  height: 236.8px;
+}
+.review .climbers-1 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.review .group-8 {
+  position: absolute;
+  left: 28.1px;
+  top: 26.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.review .personalized-workouts-will-help-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .you-gain-strength-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .group-9 {
+  position: absolute;
+  left: 28.1px;
+  top: 61.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.review .see-more-1 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 12px;
+  color: #FBF9F9;
+}
+.review .group-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.review .group-10 {
+  border-radius: 12px;
+  background: #FF9B70;
+  position: absolute;
+  right: 25.3px;
+  bottom: 54.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 6px 19.3px 6.4px 19.3px;
+  width: 81.1px;
+  box-sizing: border-box;
+}
+.review .front-hashtag {
+  position: relative;
+  margin: 0 27.5px 40.2px 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 2.2px 1.5px 0 0;
+  width: 371.5px;
+  height: 236.9px;
+  box-sizing: border-box;
+}
+.review .rectangle-path-5 {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.review .climbers-2 {
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.review .group-13 {
+  position: relative;
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.review .personalized-workouts-will-help-2 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .you-gain-strength-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Quicksand';
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.review .group-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.review .container {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 28px;
+  display: flex;
+  flex-direction: column;
+  padding: 34px 0 116px 30px;
+  width: calc(100% - 56px);
+  box-sizing: border-box;
+}
+.review .home-duotone {
+  margin-bottom: 4.5px;
+  width: 37.5px;
+  height: 37.8px;
+}
+.review .vector-399 {
+  margin: 0 5px 0 4px;
+  width: 6px;
+  height: 7px;
+}
+.review .vector-398 {
+  margin-bottom: 1px;
+  width: 4px;
+  height: 8px;
+}
+.review .vector-400 {
+  width: 11px;
+  height: 9px;
+}
+.review .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 15px;
+  box-sizing: border-box;
+}
+.review .thumb-up {
+  background: #6C6969;
+  margin-top: 11.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px 11px 5px;
+  width: 28px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.review .book-open-alt {
+  margin: 13.4px 0 2px 0;
+  width: 27px;
+  height: 27px;
+}
+.review .ellipse-46 {
+  border-radius: 4.5px;
+  margin: 0 3.4px 3.4px 3.4px;
+  width: 9px;
+  height: 9px;
+}
+.review .rectangle-4160 {
+  border-radius: 1.8px;
+  width: 15.8px;
+  height: 7.9px;
+}
+.review .user-alt {
+  margin: 11.7px 0 10.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.review .group-3 {
+  background: rgba(113, 109, 109, 0.9);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.6px 0 25px 36.4px;
+  box-sizing: border-box;
+}
+.review {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 64px 2px 0 1px;
+  box-sizing: border-box;
+}
